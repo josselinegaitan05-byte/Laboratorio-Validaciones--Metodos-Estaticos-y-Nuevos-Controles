@@ -1,0 +1,8 @@
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\bin\Debug\Juegos de Craps.exe.config
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\bin\Debug\Juegos de Craps.exe
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\bin\Debug\Juegos de Craps.pdb
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\obj\Debug\Juegos de Craps.csproj.AssemblyReference.cache
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\obj\Debug\Juegos de Craps.csproj.SuggestedBindingRedirects.cache
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\obj\Debug\Juegos de Craps.csproj.CoreCompileInputs.cache
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\obj\Debug\Juegos de Craps.exe
+D:\LAB\CursoC#\Segunda parte\Juegos de Craps\Juegos de Craps\obj\Debug\Juegos de Craps.pdb
