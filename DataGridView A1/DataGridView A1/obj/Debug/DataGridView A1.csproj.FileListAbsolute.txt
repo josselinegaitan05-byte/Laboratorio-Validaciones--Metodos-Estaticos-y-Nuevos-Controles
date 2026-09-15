@@ -1,0 +1,11 @@
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.csproj.AssemblyReference.cache
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.csproj.SuggestedBindingRedirects.cache
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView_A1.Form1.resources
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView_A1.Properties.Resources.resources
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.csproj.GenerateResource.cache
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.csproj.CoreCompileInputs.cache
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\bin\Debug\DataGridView A1.exe.config
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\bin\Debug\DataGridView A1.exe
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\bin\Debug\DataGridView A1.pdb
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.exe
+D:\LAB\CursoC#\Segunda parte\DataGridView A1\DataGridView A1\obj\Debug\DataGridView A1.pdb
