@@ -20,9 +20,9 @@ conjunto de conceptos distintos del lenguaje y del framework .NET:
 
 | Proyecto | Concepto principal | Tipo de app |
 |---|---|---|
-| [`DataGridView A1`](#1-datagridview-a1--validaciones-y-nuevos-controles) | Validaciones de datos, clase `static`, `ErrorProvider`, `DataGridView` | Windows Forms |
-| [`Juegos de Craps`](#2-juegos-de-craps--lógica-con-enumeraciones) | Enumeraciones, estructuras de control, generación de números aleatorios | Consola |
-| [`MDI`](#3-mdi--formularios-de-interfaz-de-múltiples-documentos) | Formularios MDI (padre/hijo), `MenuStrip` | Windows Forms |
+|<img width="747" height="647" alt="image" src="https://github.com/user-attachments/assets/86616e82-8af4-46e1-a16a-0a0bd7ecf1b8" /> | Validaciones de datos, clase `static`, `ErrorProvider`, `DataGridView` | Windows Forms |
+|<img width="1122" height="623" alt="image" src="https://github.com/user-attachments/assets/40530981-752e-41be-a58b-0fb0538ba7a7" />| Enumeraciones, estructuras de control, generación de números aleatorios | Consola |
+| <img width="912" height="632" alt="image" src="https://github.com/user-attachments/assets/996949ed-b4d1-4d4f-80fe-cf443150ca6e" />| Formularios MDI (padre/hijo), `MenuStrip` | Windows Forms |
 
 ---
 
@@ -116,7 +116,7 @@ validación de datos antes de guardar cada registro.
 
 | Validaciones (campos vacíos / correo inválido) | Registro guardado en el `DataGridView` |
 |---|---|
-| ![Validaciones con ErrorProvider](imagenes/validaciones-error.png) | ![DataGridView con registros](imagenes/validaciones-datagrid.png) |
+| <img width="747" height="647" alt="image" src="https://github.com/user-attachments/assets/2b3c751a-10bc-4d6c-8803-73df935fa2c5" /> | <img width="860" height="642" alt="image" src="https://github.com/user-attachments/assets/b174b125-5ceb-4f1f-9742-3de337bf991d" /> |
 
 ---
 
